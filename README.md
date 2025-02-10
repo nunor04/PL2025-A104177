@@ -1,4 +1,4 @@
-# 📌 Processamento de Linguagens (PL) - Trabalhos Práticos  
+# 📌 Processamento de Linguagens (PL) - PL2025-A104177 
 
 ![Foto](eu.jpeg)
 
