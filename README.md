@@ -7,7 +7,7 @@
 - **Número de Aluno:** A104177  
 
 ## 📂 Sobre este Repositório  
-Este repositório contém os **Trabalhos Práticos (TPCs)** da unidade curricular de **Processamento de Linguagens (PL)**.  
+Este repositório contém os **TPCs** da unidade curricular de **Processamento de Linguagens (PL)**.  
 
 ### 📑 Estrutura  
 Os TPCs estão organizados em pastas nomeadas como `TPCx`, onde `x` representa a semana correspondente.  
