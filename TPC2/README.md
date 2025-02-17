@@ -23,7 +23,7 @@ Uma vez que o uso do módulo `csv` é proibido, foi criada a função `parse_csv
 
 A função `read_and_parse_csv(file_path)` lê o ficheiro linha a linha, acumulando-as quando necessário para lidar com possíveis quebras incorretas dentro de campos entre aspas. O resultado é uma lista de listas, onde cada sublista contém os campos corretamente extraídos de uma linha do CSV.
 
-### 📌 **Processamento das entradas**
+### 📌 **Processamento dos dados**
 
 A função `process_entries(parsed_data)` percorre os dados extraídos, extraindo três elementos principais:
 
