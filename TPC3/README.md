@@ -96,12 +96,16 @@ O ficheiro exemplo.html gerado terá o seguinte conteúdo:
 
 ```html
 <h1>Cabeçalho Principal</h1>
+
 Este é um <b>exemplo</b> de <i>Markdown</i>.
+
 <ol>
 <li>Primeiro item</li>
 <li>Segundo item</li>
 <li>Terceiro item</li>
 </ol>
+
 Consulte <a href="http://www.uc.pt">a página da UC</a> para mais informações.
+
 Veja a imagem: <img src="http://www.coellho.com" alt="imagem dum coelho"/>
 ```
