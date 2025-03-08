@@ -8,7 +8,7 @@ Nuno Miguel Matos Ribeiro (A104177)
 
 # 📌 Enunciado  
 
-O objetivo deste trabalho é desenvolver, em Python, um analisador léxico para uma linguagem de consulta inspirada no SPARQL. O programa deve ler um ficheiro contendo uma consulta e produzir uma sequência de tokens que representam os diferentes elementos da linguagem.  
+O objetivo deste trabalho é desenvolver, em Python, um analisador léxico. O programa deve ler um ficheiro contendo uma consulta e produzir uma sequência de tokens que representam os diferentes elementos da linguagem.  
 
 # 🔍 Elementos Reconhecidos  
 
