@@ -1,6 +1,6 @@
 # 📌 PL2025-A104177  
 
-# 📝 Analisador Léxico para Linguagem de Consulta (SPARQL-like)  
+# 📝 Analisador Léxico 
 
 ## 👨‍💻 Autor  
 
